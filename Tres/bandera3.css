@@ -1,0 +1,15 @@
+.amarillo{
+	background: yellow;
+
+}
+.rojo {
+	background: red;
+}
+
+div{
+	height:100px;
+	width:200px;
+	display: inline-block;
+	padding:5px;
+	margin:10px;
+}
